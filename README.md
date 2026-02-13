@@ -1,2 +1,1 @@
-# maxemporor.github.io
-## Introduction
+# Introduction
